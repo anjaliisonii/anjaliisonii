@@ -3,13 +3,13 @@
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliisonii&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliisonii" /> </p>
 
-- 🔭 I’m currently working on **Prediction the potato diseses**
+- 🔭 I’m currently working on **Prediction the potato diseases**
 
-- 🌱 I’m currently learning **Deep Learning, Machine Learning**
+- 🌱 I’m currently learning **Deep Learning,Block chain and React Native**
 
-- 👯 I’m looking to collaborate on **Predicting the health risks of preagent patients**
+- 👯 I’m work on Major project based on Machine Leaning **PregFree webapp (Predicting the health risks of pregnant patients)**
 
-- 🤝 I’m looking for help with **Blockchain with cloud computing**
+- 🤝 I’m looking for help with Project **Blockchain with cloud computing**
 
 - 💬 Ask me about **HTML,CSS,JS, Machine Learning,Python**
 
