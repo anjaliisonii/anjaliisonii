@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Anjali Soni</h1>
+<h1 align="center">Hey! 👋, I'm Anjali Soni</h1>
 <h3 align="center">I am a frontend developer and Machine learning Enthusiast.</h3>
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliisonii&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliisonii" /> </p>
 
-- 🔭 I’m currently working on **Prediction the potato diseases**
+- 🔭 I’m currently working on **Prediction of the potato diseases**
 
 - 🌱 I’m currently learning **Deep Learning,Block chain and React Native**
 
-- 👯 I’m work on Major project based on Machine Leaning **PregFree webapp (Predicting the health risks of pregnant patients)**
+- 👯 I’m worked on Major project based on Machine Learning **PregFree webapp 
+(Predicting the health risks of pregnant patients)**
 
 - 🤝 I’m looking for help with Project **Blockchain with cloud computing**
 
