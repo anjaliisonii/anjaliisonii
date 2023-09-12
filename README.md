@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliisonii&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliisonii" /> </p>
 
-- 🔭 I’m currently working on ** Developing Amazing user friendly website**
+- 🔭 I’m currently working on **Developing Amazing user friendly website**
 
 - 🌱 I’m currently focusing on  learning **Full stack development**
 
