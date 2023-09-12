@@ -3,16 +3,16 @@
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliisonii&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliisonii" /> </p>
 
-- 🔭 I’m currently working on **Prediction of the potato diseases**
+- 🔭 I’m currently working on ** Developing Amazing user friendly website**
 
-- 🌱 I’m currently learning **Deep Learning,Block chain and React Native**
+- 🌱 I’m currently focusing on  learning **Full stack development**
 
 - 👯 I’m worked on Major project based on Machine Learning **PregFree webapp 
 (Predicting the health risks of pregnant patients)**
 
-- 🤝 I’m looking for help with Project **Blockchain with cloud computing**
 
-- 💬 Ask me about **HTML,CSS,JS, Machine Learning,Python**
+
+- 💬 Ask me about **HTML,CSS,JS, Reactjs,SQL,Machine Learning,Python**
 
 - 📫 How to reach me **linkedin.com/in/anjali-soni-83334b212**
 
