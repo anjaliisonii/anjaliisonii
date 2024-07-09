@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently focusing on  learning **Full stack development**
 
-- 👯 I’m worked on Major project based on Machine Learning **PregFree webapp 
-(Predicting the health risks of pregnant patients)**
+- 👯 I’m worked on Major project based on Machine Learning **Green Vision 
+  (classification of Potato leaf disease)**
 
 
 
